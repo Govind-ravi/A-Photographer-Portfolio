@@ -20,3 +20,6 @@ This Website is A Photographer Portfolio to Introduce himself and showcase his t
 
 > The website is responsive to all window size
 
+### Image Slider 
+
+> User can experience Slides
